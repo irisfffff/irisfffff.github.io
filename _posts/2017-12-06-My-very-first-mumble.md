@@ -13,24 +13,24 @@ tags:
 ---
 <br>
 
->	After 6 years of school dorm life, I finally got my 	own room, here in Sweden🇸🇪. The same feeling when I'm 	writing here, my own page, not facebook, weibo, 	wechat, but MY OWN PAGE.
+> After 6 years of school dorm life, I finally got my own room, here in Sweden🇸🇪. The same feeling when I'm writing here, my own page, not facebook, weibo, wechat, but MY OWN PAGE.
 
 <br>
-<font color=#707070>I'm a girl from China major in SE, and now as an exchange student in MIUN-Sundsvall, Sweden. This blog is not specially focused on anything. Enjoy~</font>
+I'm a girl from China major in SE, and now as an exchange student in MIUN-Sundsvall, Sweden. This blog is not specially focused on anything. Enjoy~
 <br><br>
 	
 ### <font color='darkslategray'>The firsts in 3 months </font>
-* <font color=#707070>Decorate my own room</font>
-* <font color=#707070>Travel alone outside of China</font>
-* <font color=#707070>Hike in Skuleskogen, camp in cabin, stay up to keep fire alive</font>
-* <font color=#707070>Have my own [youtube channel](https://www.youtube.com/channel/UCS4skTWB7AxlOW5B5A0lqcg), get some visits and 👍</font>
-* <font color=#707070>Really care about my own health and get HPV vaccine</font>
-* <font color=#707070>See northernlights</font>
-* <font color=#707070>Experience very short daytime</font>
-* <font color=#707070>Get some compliments about my spoken English</font>
+* Decorate my own room
+* Travel alone outside of China
+* Hike in Skuleskogen, camp in cabin, stay up to keep fire alive
+* Have my own [youtube channel](https://www.youtube.com/channel/UCS4skTWB7AxlOW5B5A0lqcg), get some visits and 👍
+* Really care about my own health and get HPV vaccine
+* See northernlights
+* Experience very short daytime
+* Get some compliments about my spoken English
 
 <br>
-<font size=3 color='darkslategray'>I've always been jealous of those who will have some companies👬 wherever they go. But sticking to someone is just too hard for me, maybe because of my unpredictable sleeping pattern, my non-linear thinking or other weird characteristics. So I started my own journey, again but outside of china, a second visit to Germany🇩🇪 (Hamburg-Berlin-Bielefeld-Cologne-Dusseldolf). It was scary at first to travel with overnight bus but thanks to all the nice people I met, nothing bad happened. A second trip will start during Christmas in Spain🇪🇸 and Portugal🇵🇹. Feel excited!  
+I've always been jealous of those who will have some companies👬 wherever they go. But sticking to someone is just too hard for me, maybe because of my unpredictable sleeping pattern, my non-linear thinking or other weird characteristics. So I started my own journey, again but outside of china, a second visit to Germany🇩🇪 (Hamburg-Berlin-Bielefeld-Cologne-Dusseldolf). It was scary at first to travel with overnight bus but thanks to all the nice people I met, nothing bad happened. A second trip will start during Christmas in Spain🇪🇸 and Portugal🇵🇹. Feel excited!  
 <br>
 ![Hamburg](https://ws3.sinaimg.cn/large/006tNc79gy1fm77de5xm0j30u00mi42w.jpg)  
 <br>
@@ -44,4 +44,3 @@ But thanks to the salesman in Mediamarkt and Edwin, your compliments really made
 The first reaction of seeing northernlights:
 > It's too good to be alive.
 
-</font>
