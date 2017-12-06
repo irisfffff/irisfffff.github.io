@@ -40,6 +40,7 @@ The shorter daytime has troubled me for weeks. But Escaping is not useful anymor
 Thanks to Inthefrow and CaseyNeistat for those lovely vlogs make me want to produce.  
 My TOEFL speaking score is still a sad 22, it's like either a blank mind or having too much to say.  
 But thanks to the salesman in Mediamarkt and Edwin, your compliments really made my day. (I still feel that my English becomes so fluent and rich of vocabulary with some alcohol🍺 I should have drunk a beer before the test lol...)
+I'll try to record videos in English, one day.
 
 The first reaction of seeing northernlights:
 > It's too good to be alive.
