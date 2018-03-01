@@ -45,3 +45,5 @@ I'll try to record videos in English, one day.
 The first reaction of seeing northernlights:
 > It's too good to be alive.
 
+<br>
+Thanks to [qiubaiying](http://qiubaiying.top/) for the istruction of the blog!
