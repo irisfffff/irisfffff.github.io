@@ -1,15 +1,16 @@
 ---
 layout:     post
-title:      One pic a city
+title:      Christmas trip - One pic a city
 subtitle:   A step away from laziness
 date:       2018-03-08
 author:     Iris
-header-img: img/instruction.jpg
+header-img: img/post-bt-christmas-trip.jpg
 catalog: true
 tags:
     - Travel
     - Alone
     - Healthy lifestyle
+    - Photography
     
 ---
 <br />
