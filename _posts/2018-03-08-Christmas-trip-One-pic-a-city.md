@@ -4,7 +4,7 @@ title:      Christmas trip - One pic a city
 subtitle:   A step away from laziness
 date:       2018-03-08
 author:     Iris
-header-img: img/post-bt-christmas-trip.jpg
+header-img: img/post-bg-christmas-trip.jpg
 catalog: true
 tags:
     - Travel
